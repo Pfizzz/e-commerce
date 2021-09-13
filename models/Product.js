@@ -1,5 +1,6 @@
 // import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
+const { Category } = require('.');
 // import our database connection from config.js
 const sequelize = require('../config/connection');
 
@@ -38,7 +39,7 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'Category',
+        model: Category,
         key: 'id'
       }
       // REFERENCES CATERY MODEL'S ID
