@@ -8,17 +8,12 @@
 This is a node.js application that uses Sequelize for Object-Relational Mapping. Rather than SQL, this app was written in JavaScript to manage the database of an online store.
 ## Table of Contents
 * [Installation](#installation)
-* [Usage Information](#usage)
-* [Contribution Guidelines](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 ![image](https://github.com/Pfizzz/e-commerce/blob/8154fe19ce3ae41ce6f232853930394348d322e0/images/ss1.png)
 
 ## Installation
 After cloning the repo and running "npm install", seed the database by executing "npm run seed". Then, use "npm start" to access the database and its tables.
-## Usage
-
-## Contributing
 
 ## Tests
 This app's API routes are optimized for Insomnia.
