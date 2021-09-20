@@ -6,6 +6,10 @@
   [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 ## Description
 This is a node.js application that uses Sequelize for Object-Relational Mapping. Rather than SQL, this app was written in JavaScript to manage the database of an online store.
+
+## Demo Video
+[Click here to be redirected to Youtube](https://www.youtube.com/watch?v=q5D7XMAWHEQ)
+
 ## Table of Contents
 * [Installation](#installation)
 * [Tests](#tests)
