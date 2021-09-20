@@ -8,7 +8,7 @@
 This is a node.js application that uses Sequelize for Object-Relational Mapping. Rather than SQL, this app was written in JavaScript to manage the database of an online store.
 
 ## Demo Video
-[Click here to be redirected to Youtube](https://www.youtube.com/watch?v=q5D7XMAWHEQ)
+[Click here to be redirected to Youtube](https://www.youtube.com/watch?v=IMnLNtmtzaY)
 
 ## Table of Contents
 * [Installation](#installation)
